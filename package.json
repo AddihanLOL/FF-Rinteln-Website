@@ -7,10 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-	"export": "npm run build && next export -o _static"
+    "export": "npm run build && next export -o _static"
   },
   "dependencies": {
     "@next/font": "13.1.6",
+    "animate.css": "^4.1.1",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
