@@ -23,7 +23,7 @@ export default function NavBar(props){
                     <button id="scrollNews" onClick={newsClick}>Aktuelles</button>
                 </li>
                 <li>
-                    <button id="scrollJF" onClick={jfClick}>Jugend-Feuerwehr</button>
+                    <button id="scrollJF" onClick={jfClick}>Kinder und Jugendfeuerwehr</button>
                 </li>
                 <li>
                     <button id="scrollJoin" onClick={joinClick}>Mitgleid werden</button>
